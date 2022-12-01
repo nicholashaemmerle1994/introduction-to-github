@@ -4,5 +4,16 @@
 
 
 
-````
+```
 <html> </html>
+
+```
+
+
+Tomorrows To-Do´s
+
+- [ ] Write some code
+- [ ] Go to the Gym
+- [ ] Hit some fuckin PR´s
+- [ ] Go back to coding 
+
